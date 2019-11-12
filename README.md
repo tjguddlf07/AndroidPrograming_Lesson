@@ -255,5 +255,5 @@ _Italic_
 ### 지금까지의 변경 내용을 전부 해당 브랜치에 병합
 > git merge
 
-### 가장 최근에 커밋했던 내용을 불러옴
+### git add 와 git commit 명령으로 생성한 마지막 커밋을 되돌린다.
 > git reset --hard
